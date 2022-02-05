@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include zineify *.css
+recursive-include zineify *.csv
+recursive-include zineify *.html
+recursive-include zineify *.ico
+recursive-include zineify *.js
+recursive-include zineify *.json
+recursive-include zineify *.md
+recursive-include zineify *.png
+recursive-include zineify *.py
+recursive-include zineify *.svg
+recursive-include zineify *.txt
+recursive-exclude zineify *.pyc
