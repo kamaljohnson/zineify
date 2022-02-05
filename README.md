@@ -1,6 +1,6 @@
 ## Zineify
 
-Everydauy zines
+Everyday zines
 
 #### License
 
