@@ -5,6 +5,7 @@ const routes = [
 		path: '/',
 		name: 'Feeds',
 		component: () => import('@/pages/Feeds.vue'),
+		props: true,
 	},
 ]
 
